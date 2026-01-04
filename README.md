@@ -4,10 +4,10 @@
 At its core, Kinetica implements a fixed timestep physics loop with an accumulator, ensuring stable and reproducible simulation behavior independent of frame rate. The simulation supports dynamic bodies with configurable physical properties and provides fine-grained control over execution through an integrated debugging interface.
 
 ## Features
--**Real-time 2D physics simulation** using fixed-timestep integration
+- **Real-time 2D physics simulation** using fixed-timestep integration
 - Stable ball–ball and ball–wall collision handling with restitution and friction
--**OpenGL** rendering with motion trajectories and alpha-faded trails
--ImGui-based controls for play/pause, step, reset, gravity, and time scaling
+- **OpenGL** rendering with motion trajectories and alpha-faded trails
+- ImGui-based controls for play/pause, step, reset, gravity, and time scaling
 
 ##  Installation And Setup
 ### Clone The Repository
